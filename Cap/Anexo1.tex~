@@ -1,0 +1,20 @@
+\chapter*{Apéndice}
+\section*{Deshabilitar la reproducción automática de dispositivos USB}
+Para Windows XP:
+
+\begin{enumerate}
+  \item Menú Inicio $\rightarrow$ Ejecutar
+  \item Escribir: \textit{gpedit.msc} y pulsar \textit{Enter}
+  \item En el árbol de la izquierda, seguir esta ruta:
+  \item Directiva de equipo local $\rightarrow$ Configuración del equipo $\rightarrow$ Plantillas administrativas $\rightarrow$ Sistema
+  \item En la ventana de la derecha, bajar hasta \textit{Desactivar reproducción automática} (doble click)
+  \item Clickear en \textit{Habilitar} y elegir la opción \textit{Desactivar reproducción automática en: Todas las unidades}
+\end{enumerate}
+
+
+Para Windows 7:
+
+\begin{enumerate}
+  \item Inicio $\rightarrow$ Panel de Control: Hardware y sonido $\rightarrow$ Reproducción automática
+  \item Deshabilitar todas las opciones
+\end{enumerate}

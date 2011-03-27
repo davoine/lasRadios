@@ -1,0 +1,158 @@
+\chapter{Aspecto técnico\label{tecnico}}
+
+\indent En cada una de las radios visitadas, se trabajó el aspecto técnico utilizando un papelógrafo, donde se relevaban problemas frecuentes y sus soluciones, el paso a paso de la solución de un problema específico, los materiales utilizados y los referentes técnicos. La intención era generar una especie de “manual técnico” de radios, escrito por radialistas para radialistas, tomando como base la experiencia de años de trabajo. Durante la redacción de este proyecto (mayo-junio de 2009), se había visto que el tema técnico era de suma importancia para los colectivos, y por eso se lo tomó como un aspecto a trabajar.\\
+
+En las visitas a las radios, se encontró que, en general, no existían grandes problemas técnicos, o problemas con una solución muy compleja. Incluso, en muchas radios no pudo elaborarse el paso a paso de la solución a un problema técnico específico, dado que los problemas presentados parecían de solución simple para los participantes. En algunos casos particulares, existían varios integrantes del colectivo con mucha preparación y experiencia en lo técnico, pero no es la generalidad. Por otra parte, uno de los grandes temas en lo técnico refiere al uso de software libre. Aunque AMARC Uruguay tomó en asamblea la decisión política de usar software libre en las radios, la instrumentación en la red no se ha completado aún.\\
+
+De todos modos, resultaría aventurado concluir que no existen problemas técnicos en las radios. Quizá la metodología usada en los talleres no sirvió para poder relevarlos de manera adecuada. También hay que resaltar que la implementación del proyecto Laboratorio TICs cambió sustancialmente la realidad de muchas radios, dotándolas a todas de un equipamiento mínimo (consola, computadora, micrófono) de buena calidad. Existe una valoración muy positiva del Laboratorio TICs, en relación al aporte de infraestructura; mas, en lo relativo al aprovechamiento de la misma, se señala un gran debe (desconocimiento de Ubuntu, uso no eficiente de consolas).\\
+
+Se realizó una clasificación del conjunto de problemas técnicos relevados en los talleres. Los grandes bloques de problemas técnicos refieren a:
+
+\begin{enumerate}
+  \item Problemas eléctricos (instalación, descargas, cortes de energía)
+  \item Relacionados con la informática (linux, desprogramación de tandas, salida por internet, cuelgues de computadoras)
+  \item Comunicación con el exterior (audiencia, cobertura de eventos)
+  \item Salida al aire (micrófonos, saturación, salida en estéreo, calidad de sonido, amplificación)
+  \item Transmisión (poca potencia, antena, interferencias con radios y TV, alcance)
+  \item Capacitación (software libre, técnica en general, manuales engorrosos)
+\end{enumerate}
+
+
+Dentro de cada uno de los temas, existen problemas que se reiteran, por constituir parte del día a día de las radios, y otros que son únicos y circunstanciales. Algunos no son solucionables en la interna, sino que se solucionan mediante la adquisición de equipos nuevos, por lo cual se omiten en este resumen.\\
+
+Analizaremos cada bloque de problemas por separado.
+
+\section{Problemas eléctricos}
+
+\indent Uno de los problemas presentados fue el estado precario de las instalaciones eléctricas de algunas radios. Debido a las exigencias asociadas a la legalización de las radios comunitarias, este problema ha sido solucionado (o está en vías de solución), para la mayor parte de los colectivos, puesto que es uno de los puntos estudiados por la inspección de la URSEC\footnote{Unidad Reguladora de los Servicios en Comunicaciones: \href{http://www.ursec.gub.uy}{www.ursec.gub.uy}}. Dado que el aterramiento es parte de lo requerido en la instalación, el problema de las descargas se encontraría mitigado.\\
+
+Los cortes frecuentes de energía fueron comentados por dos radios de Canelones (General Artigas y Universo). La solución pasa por instalar una UPS\footnote{Uninterruptible Power Supply: Suministro ininterrumpible de energía} y un equipo generador, que supla de energía a la radio hasta el restablecimiento de la de UTE.\\
+
+\section{Informática}
+
+\indent Un problema frecuente era el cuelgue de la computadora usada para salir al aire. Como solución transitoria, algunos compañeros usan un reproductor de música (antiguamente un discman, ahora reproductores de mp3) para salir al aire mientras reiniciaban el equipo.\\
+
+\indent Los virus en las computadoras constituyen otro problema usual. Estos son llevados por los pendrives o reproductores de mp3 y mp4, que a su vez son infectados en computadoras de acceso colectivo (familiares, cybercafés, etc). Un virus es básicamente un programa que se ejecuta sin el control del usuario, para realizar tareas variadas: desde borrar información hasta extraer información confidencial de los usuarios (números de tarjetas de crédito, contraseñas, etc) y enviarlas por internet. Se instala en la computadora porque es ejecutado por el programa de reproducción automática de Windows (cuando se conecta un pendrive, aparece una ventana preguntando qué se quiere hacer con el mismo).\\
+
+Existen varias formas de evitar este problema:
+
+\begin{enumerate}
+  \item Usar Linux (Ubuntu, por ejemplo) como sistema operativo, en lugar de Windows, donde no se registran problemas con virus.	
+  \item Desactivar la reproducción automática de dispositivos USB. Dependiendo de la versión de Windows, existe una opción de deshabilitar que se autoejecute el contenido del pendrive (que puede ser un virus).
+\end{enumerate}
+
+
+\indent Como se mencionó anteriormente, existen algunos problemas con el manejo de Linux en las radios. El principal refiere a la falta de conocimiento de programas para radio en Linux, es decir, una aplicación que permita crear una lista de archivos de sonido de duración total conocida, de modo de saber entre qué horas va a ser emitida. El programa comúnmente usado para salir al aire es el ZaraRadio, que es software libre (código abierto para poder ser modificado libremente), pero sólo funciona en Windows. Una solución comúnmente encontrada para usarlo en Linux es a través de la aplicación Wine, que permite correr programas para Windows bajo Linux. Otra alternativa es directamente utilizar otra aplicación, del género de reproducción de archivos de sonido, como el Audacity\footnote{\href{http://audacity.sourceforge.net/?lang=es}{audacity.sourceforge.net/?lang=es}}. Existen también proyectos de programas de código abierto para radios, como el Rivendell\footnote{\href{http://www.rivendellaudio.org}{www.rivendellaudio.org}} o el Internet DJ Console \footnote{\href{http://sourceforge.net/projects/idjc/files}{sourceforge.net/projects/idjc/files}}.\\
+
+En una radio (La Heladera) no podían entrar a internet directamente desde la computadora con Linux, lo cual se solucionaría instalando un router (que además, por ser inalámbrico, proporcionaría acceso a la red desde el exterior, como sucede en radio Prado para los niños que tienen XO).\\
+
+En relación a la informática, otro tema es la salida a través de internet. Como muestra el estudio de audiencia, existe un alto porcentaje de la población que tiene acceso a la red. Además, cada vez es más común escuchar radio por internet. Incluso las computadoras del Plan Ceibal vienen con un programa para escuchar radio: Ceibal Radio, desarrollado por la asociación civil uruguaya CeibalJAM!\footnote{\href{http://ceibaljam.org}{ceibaljam.org}}, donde ya aparece una de las radios comunitarias asociadas a AMARC: Radio Prado.\\
+
+Todas las radios visitadas participan del podcast de AMARC\footnote{\href{http://podcast.amarcuruguay.org}{podcast.amarcuruguay.org}}, subiendo archivos de audio con emisiones. Pero muchas no emiten por internet en tiempo real todavía, por falta de recursos financieros o de conocimento de formas gratuitas de transmisión. En la sección \ref{Comunica} se puede ver la lista de radios que emiten en internet en tiempo real (a diciembre de 2010).\\
+% 
+% Las radios que transmiten en tiempo real por internet son:
+% 
+% \begin{itemize}
+%   \item Radio Gral Artigas: \url{http://radioartigas.listen2myradio.com}
+%   \item Radio Vilardevoz: \url{http://www.ustream.tv/channel/transmisiones-vilardevoz}
+%   \item Radio Horizonte Max: \url{http://horizontemax913.blogspot.com}
+%   \item Radio Prado: \url{http://www.elpradofm.net/transmitiendo.html}
+%   \item Radio Horizonte: \url{http://www.horizonte989.org/radio}
+%   \item Radio Universo: \url{http://www.ustream.tv/channel/radiouniversofm}
+% \end{itemize}
+
+\section{Comunicación con el exterior}
+
+Como se detalla en el punto de Comunicación con la Comunidad, existen varios medios de comunicación con la audiencia al aire, como las llamadas telefónicas, sms, correo electrónico, chat, etc. El más complejo es el pasar llamadas telefónicas al aire, para lo cual existen, al menos, dos alternativas de uso común:
+
+\begin{enumerate}
+  \item Usar manos libres de un celular
+  \item Usar un teléfono híbrido
+\end{enumerate}
+
+El primer caso requiere un celular con línea, dedicado específicamente a la tarea de salir al aire. En el segundo, se puede realizar de manera artesanal el circuito, con muy bajo costo. Existen muchas versiones de circuitos para recepción y emisión de llamadas telefónicas\footnote{\href{http://www.proyectoelectronico.com/varios/hibrido-telefonico-phone-patch.html}{www.proyectoelectronico.com/varios/hibrido-telefonico-phone-patch.html}}.\\
+
+Además de comunicación en vivo con la audiencia, otro problema es la transmisión de eventos públicos, como partidos de fútbol, festivales, tablados, etc. La solución más usual encontrada es usar un celular tarjetero, con llamadas gratuitas al teléfono de la radio. Otra es directamente usar una consola portáti.\\
+
+\section{Salida al aire}
+
+En este tema, se señalaron desde problemas circunstanciales (cables de micrófonos averiados, no salida en estéreo, etc; detectables con un tester y solucionables con un soldador) hasta otros más generales, relativos a mejorar la calidad del sonido (procesador de audio y codificador estéreo).\\
+
+El problema de la saturación a la salida se soluciona con un correcto manejo de la consola (Espika: chequear que todos los vúmetros no estén saturando ni bajos al final de cada transmisión), al igual que la amplificación. Varias radios hablaron de tener un sonido que las \textit{distinguiera}, un sonido característico de cada radio, lo cual descansa en la tarea de los operadores.\\
+
+Los problemas de ruido (``estática''), se deben a que el circuito del audio no está bien aislado. Por ejemplo, si los cables no están blindados (no tienen una malla protectora a tierra), pueden hacer de ``antena''. La calidad de las tierras es muy importante también (instalación de jabalinas).\\
+
+El subaprovechamiento de la consola fue señalado en varias ocasiones. Existen compañeros que, por otro lado, explicitan que la aprovechan al máximo, como sucede en La Heladera.\\
+
+Un dato no relevado fue si todas las radios salen en estéreo o no.\\
+
+Varios colectivos señalan problemas con la aislación acústica, que generalmente es de fabricación casera (cajas de huevos). Muchas radios tienen la cabina cerca de la calle, lo que genera distorsiones por el ruido externo, mientras que otras ni siquiera tienen cabina. En el caso particular de Utopía, en Colonia Nicolich, la cercanía con el aeropuerto ocasiona grandes problemas acústicos.\\
+
+\section{Transmisión}
+
+Se mencionaron problemas con la antena. Algunas radios (Horizonte Max, Impactos) comentaron que tienen poco alcance, lo que sería solucionable si se aumentara la potencia permitida por parte de la URSEC (aunque eso podría generar interferencias con otras emisoras). Además sufren interferencia de otras emisoras, no siempre legales. En el interior, aparecieron varios casos de interferencias (con otras radios, TV), ruido en el transmisor.\\
+
+\section{Capacitación}
+
+\indent Un tema colateral que fue señalado en repetidas ocasiones, fue la formación técnica. En algunos colectivos (La Cotorra, Utopía, Horizonte, Espika) es habitual realizar instancias de formación, por medio de un compañero que ha aprendido sobre un tema específico (por ejemplo, uso de una nueva consola). También se realizan procesos de aprendizaje progresivo, donde un integrante del colectivo comienza colaborando en tareas técnicas sencillas, aumentando la complejidad con la experiencia adquirida. En otros (Horizonte Max), existen compañeros que no tocan la computadora ni la consola por ``miedo''.\\
+
+\indent Otros colectivos (Parque, El Capiz, por ejemplo), hablaron de la falta de formación técnica. En ocasiones, se adquiere nuevo equipamiento, pero sin los respectivos manuales. Lo más habitual es que, cuando hay manuales, no sean leídos o no se entiendan (``precisamos manuales más sencillos'', La Cotorra).\\
+
+\indent Con respecto al software libre, también se aprecia una falta de formación para utilizarlo. En primera instancia se debería pensar en el aprendizaje de un sistema operativo libre sencillo (como por ejemplo, Ubuntu, instalado en las computadoras del proyecto Laboratorio TICs), para luego pasar a programas más específicos para realizar edición y salir al aire.\\
+
+\newpage
+\section{Referentes técnicos}
+
+\subsection{Generales}
+
+\begin{itemize}
+ \item José Imaz (La Cotorra)
+ \item Daniel López (Capiz)
+ \item Sebastián (Horizonte)
+ \item Orlando (Horizonte)
+ \item Carlos (Prado)
+ \item Bruno Brian (Espika)
+ \item Carlos Dárdano (Espika)
+ \item Mauricio Torino (Espika)
+ \item Nicolás Verdier (Espika)
+ \item Víctor (Vilardevoz)
+ \item Heber (Vilardevoz)
+\end{itemize}
+
+
+\subsection{Antena y equipos}
+\begin{itemize}
+ \item Daniel (Horizonte Max)
+ \item Luis Malletti (La Heladera)
+ \item Alfredo (Prado)
+ \item Joan (Prado)
+ \item Emir (Prado)
+ \item Martín Acosta (Gral Artigas)
+ \item Manuel Castelo (Gral Artigas)
+ \item Hebert Madera (Utopía)
+ \item Manuel (Utopía)
+ \item Alejandro (Insomnio)
+\end{itemize}
+
+\subsection{Informática}
+\begin{itemize}
+ \item Rodrigo (Horizonte Max)
+ \item Daniel Dutra (La Cotorra)
+ \item Federico (Horizonte)
+ \item Alejandro (Impactos)
+ \item Esteban Yepor (La Heladera)
+ \item Rodolfo Salvarey (Universo)
+ \item Marcelo (Universo)
+ \item Eduardo (Universo)
+ \item Pablo Maulilla (Gral Artigas)
+ \item Pablo Mass (Utopía)
+\end{itemize}
+
+\subsection{Edición, audio, salida al aire}
+\begin{itemize}
+ \item Diego Gómez (La Cotorra)
+ \item Esteban Yepor (La Heladera)
+ \item Javier Apolinario (La Heladera)
+ \item Jorge Daniel Garro (Universo)
+ \item Ariel Camacho (Utopía)
+\end{itemize}

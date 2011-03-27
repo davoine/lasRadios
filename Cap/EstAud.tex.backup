@@ -1,0 +1,488 @@
+\chapter{Estudio de audiencia}
+
+\indent Uno de los objetivos del proyecto de Extensión \textit{Las Radios no son Ruido} era realizar un estudio de audiencia de las radios asociadas a AMARC. Para ello, se diseñó una encuesta, tomando como base una realizada para El Puente en 2004, y realizando algunas modificaciones acordadas por los integrantes del proyecto e integrantes de la mesa de AMARC.\\
+
+\indent Por diversas razones sólo se realizaron encuestas en 14 radios de las 15 con las que se trabajó (en ocasiones con colaboración del colectivo de las mismas), se logró llegar a 697 encuestas. El error resultante es de +/- $5,5\%$ sobre el total de la muestra, con un nivel de fiabilidad del $95\%$. Las encuestas fueron realizadas en los meses que van desde marzo hasta agosto de 2010.\\
+
+\indent Las radios incluidas en estudio de audiencia:
+\begin{itemize}
+  \item Horizonte Max (Artigas)
+  \item Impactos (Salto)
+  \item Horizonte (Paysandú)
+  \item Parque (La Paloma)
+  \item La Heladera (José Pedro Varela)
+  \item Universo (Montes)
+  \item Prado (Paso de la Arena)
+  \item Vilardevoz (Reducto)
+  \item General Artigas (Toledo)
+  \item Timbó (San José)
+  \item Espika (Santa Lucía)
+  \item Utopía (Colonia Nicolich)
+  \item La Cotorra (Cerro)
+  \item Insomnio (Las Piedras)
+\end{itemize}
+
+\indent Existen algunas consideraciones metodológicas acerca del estudio de audiencia. En primer lugar, sólo se realizaron encuestas en las zonas de alcance de las radios, en el entendido de que no tiene sentido preguntar a alguien si escucha una radio que no puede sintonizar por motivos puramente geográficos. En segundo lugar, dado que el equipo del proyecto tiene sólo cuatro integrantes y que, por motivos laborales, el trabajo de campo se ejecutó en fines de semana, se contó con la colaboración de algunos integrantes de algunas radios en la realización de las encuestas. La participación de los mismos es una muestra clara de su apropiación del proyecto (no era un proyecto sólo del equipo universitario), conscientemente buscando encuestar sin tener intencionalidad en la formulación de las preguntas. De todos modos, a pesar del esfuerzo por realizar un trabajo objetivo por parte de los integrantes de las radios, no se puede descartar cierta cuota de imparcialidad, que pudo haber afectado algunos resultados.\\
+
+\indent La encuesta está dividida en cuatro secciones:
+
+\begin{enumerate}
+     \item Informaci\'on general
+     \item Radioescuchas
+     \item Radios comunitarias en general
+     \item Radio local
+\end{enumerate}
+
+\section{Información general}
+
+\indent En este item, se busca categorizar la poblaci\'on auditada, a trav\'es de par\'ametros generales, como son la edad, sexo, ocupaci\'on y nivel de escolarizaci\'on. Adem\'as, es de inter\'es conocer su acceso a medios masivos de comunicaci\'on, a trav\'es de medios electr\'onicos (internet). Otra informaci\'on de utilidad es conocer si poseen radios anal\'ogicas o digitales.\\
+
+\indent Como se puede apreciar en la tabla \ref{SexoTabla}, un 52$\%$ de las encuestas fueron realizadas a mujeres, mientras que el restante 48$\%$ a hombres.
+
+\begin{table}[ht]
+	\centering
+\rowcolors{1}{gray!0}{gray!20}
+		\begin{tabular}{|l|l|l|}\hline
+      	\textbf{Sexo}&\textbf{Frecuencia}&\textbf{Porcentaje}\\\hline\hline
+			Femenino	&	362&	52$\%$\\\hline
+			Masculino 	&	335&	48$\%$\\\hline
+		\end{tabular}
+	  \caption{Sexo}
+	  \label{SexoTabla}
+\end{table}
+
+
+\indent Se eligió como criterio que el mínimo de edad para encuestar era de 14 años, coincidente con lo que se realiza normalmente en los estudios de audiencia (se encuestaron personas entre 14 y 88 años).
+
+
+\indent En el cuadro \ref{OcupaTabla}, se puede observar la ocupación de los encuestados. Existe una amplia mayoría de empleados (46$\%$), seguidos por proporciones casi iguales de estudiantes, amas de casa, jubilados y pensionistas y con negocio propio.\\
+
+\begin{table}[htpb]
+	\centering
+\rowcolors{1}{gray!0}{gray!20}
+		\begin{tabular}{|l|l|l|}\hline
+      	\textbf{Ocupación}&\textbf{Frecuencia}&\textbf{Porcentaje}\\\hline\hline
+			Empleado	&	310&	44$\%$\\\hline
+			Estudiante 	&	83&	12$\%$\\\hline
+			Ama de casa 	&	78&	11$\%$\\\hline
+			Jubilado/Pensionista 	&	87&	12$\%$\\\hline
+			Desocupado 	&	25&	4$\%$\\\hline
+			Changas 	&	32&	5$\%$\\\hline
+			Negocio propio 	&	61&	9$\%$\\\hline
+			Independiente	&	21&	3$\%$\\\hline
+		\end{tabular}
+	  \caption{Ocupación}
+	  \label{OcupaTabla}
+\end{table}
+
+
+\indent En cuanto al nivel educativo, se preguntaba por el último nivel educativo finalizado. Más de una tercera parte tiene sólo terminada la escuela, mientras que un cuarto llegó a finalizar ciclo básico y otro cuarto segundo ciclo.\\
+
+\begin{table}[ht]
+	\centering
+\rowcolors{1}{gray!0}{gray!20}
+		\begin{tabular}{|l|l|l|}\hline
+      	\textbf{Nivel educativo}&\textbf{Frecuencia}&\textbf{Porcentaje}\\\hline\hline
+			Primaria	&	233&	33$\%$\\\hline
+			Ciclo Básico 	&	162&	23$\%$\\\hline
+			Segundo Ciclo 	&	171&	25$\%$\\\hline
+			Terciaria 	&	41&	6$\%$\\\hline
+			UTU 	&	57&	8$\%$\\\hline
+			Magisterio 	&	11&	2$\%$\\\hline
+			Profesorado 	&	10&	2$\%$\\\hline
+			Otros 	&	3&	0$\%$\\\hline			
+			Sin primaria completa	&	9&	1$\%$\\\hline
+		\end{tabular}
+	  \caption{Último nivel educativo completo}
+	  \label{EscolarTabla}
+\end{table}
+
+
+\indent Se le preguntó a los encuestados si tenían radio analógica (``sintonizable con perilla``) o digital (``con botones``). Un 51$\%$ tiene radio analógica y un $60\%$ digital, lo que implica que muchos tienen ambos tipos de radios. Aunque no fue cuantificado, muchos de los que tenían radio digital, en realidad era como parte de equipos de más complejidad (celulares, equipos de audio, reproductores de mp3), que entre otros dispositivos, incluyen una radio.\\
+
+\begin{table}[htpb]
+	\centering
+\rowcolors{1}{gray!0}{gray!20}
+		\begin{tabular}{|l|l|l|}\hline
+	\textbf{Radio}&\textbf{Frecuencia}&\textbf{Porcentaje}\\\hline\hline
+			Analógica	&	348&	51$\%$\\\hline
+			Digital 	&	412&	60$\%$\\\hline
+			No tiene radio 	&	7&	1$\%$\\\hline
+		\end{tabular}
+	  \caption{¿Tiene radio?}
+	  \label{TieneRadioTabla}
+\end{table}
+
+\indent Se preguntó a los encuestados por el acceso a internet, es decir, si en algún momento del día tenían acceso a un equipo con conexión, independientemente si era en el hogar o en el trabajo. Casi la mitad de los mismos tiene acceso a internet, lo cual señala una gran oportunidad para las radios que emiten online, así como un mayor uso de herramientas como el correo electrónico o el chat.\\
+
+\begin{table}[htpb]
+	\centering
+\rowcolors{1}{gray!0}{gray!20}
+		\begin{tabular}{|l|l|l|}\hline
+	\textbf{Acceso a internet}&\textbf{Frecuencia}&\textbf{Porcentaje}\\\hline\hline
+			Sí	&	341&	49$\%$\\\hline
+			No 	&	356&	51$\%$\\\hline
+		\end{tabular}
+	  \caption{¿Tiene acceso a internet?}
+	  \label{AccesoInternetTabla}
+\end{table}
+
+
+% 	\newpage
+\section{Radioescuchas}
+\indent Este punto refiere a los h\'abitos de los radioescuchas. Por ejemplo, d\'ias y horarios de sintonizaci\'on, preferencias de programaci\'on y g\'eneros musicales.\\
+
+\indent Como puede verse en el cuadro \ref{EscuchaRadioTabla1}, un 89$\%$ escucha radio comúnmente, de los cuales, la mayoría (77$\%$) escucha FM y alrededor de un tercio AM (cuadro \ref{EscuchaRadioTabla2}).\\
+
+\begin{table}[ht]
+	\centering
+\rowcolors{1}{gray!0}{gray!20}
+		\begin{tabular}{|l|l|l|}\hline
+	\textbf{Escucha radio}&\textbf{Frecuencia}&\textbf{Porcentaje}\\\hline\hline
+			Sí	&	621&	89$\%$\\\hline
+			No	&	73&	10$\%$\\\hline
+		\end{tabular}
+	  \caption{¿Escucha radio habitualmente?}
+	  \label{EscuchaRadioTabla1}
+\end{table}
+
+\begin{table}[ht]
+	\centering
+\rowcolors{1}{gray!0}{gray!20}
+		\begin{tabular}{|l|l|l|}\hline
+	\textbf{Escucha radio}&\textbf{Frecuencia}&\textbf{Porcentaje}\\\hline\hline
+			AM	&	229&	33$\%$\\\hline
+			FM	&	537&	77$\%$\\\hline
+		\end{tabular}
+	  \caption{¿Escucha radio habitualmente? ¿AM y/o FM?}
+	  \label{EscuchaRadioTabla2}
+\end{table}
+
+\indent Los radioescuchas muestran tener muy integrado el hábito de escuchar radio, dado que un 70$\%$ lo hace todos los días (cuadro \ref{DiasRadioTabla}).
+
+\begin{table}[htpb]
+	\centering
+\rowcolors{1}{gray!0}{gray!20}
+		\begin{tabular}{|l|l|l|}\hline
+	\textbf{Días que escucha radio}&\textbf{Frecuencia}&\textbf{Porcentaje}\\\hline\hline
+			Entre semana	&	103&	16$\%$\\\hline
+			Fin de semana	&	66&	10$\%$\\\hline
+			Todos los días	&	443&	70$\%$\\\hline
+			NS/NC	&	28&	4$\%$\\\hline
+		\end{tabular}
+	  \caption{¿Qué días escucha radio?}
+	  \label{DiasRadioTabla}
+\end{table}
+
+
+\indent En cuanto a la distribución horaria (cuadro \ref{HorasRadioTabla}), se observa una proporción alta de gente que sólo escucha en la mañana, que es casi igual a la que escucha a toda hora. Un cuarto escucha en la tarde, un 13$\%$ en la noche y un pequeño porcentaje en la madrugada. Los porcentajes no suman 100$\%$, debido a que se podían marcar varias configuraciones distintas (mañana y tarde, mañana y noche, etc).
+
+\begin{table}[ht]
+	\centering
+\rowcolors{1}{gray!0}{gray!20}
+		\begin{tabular}{|l|l|l|}\hline
+	\textbf{Horario}&\textbf{Frecuencia}&\textbf{Porcentaje}\\\hline\hline
+			Mañana	&	224&	35$\%$\\\hline
+			Tarde	&	170&	27$\%$\\\hline
+			Toda hora	&	231&	36$\%$\\\hline
+			Noche	&	89&	14$\%$\\\hline
+			Madrugada	&	14&	2$\%$\\\hline
+			NS/NC	&	24&	4$\%$\\\hline
+		\end{tabular}
+	  \caption{¿En qué horario escucha radio?}
+	  \label{HorasRadioTabla}
+\end{table}
+
+\begin{table}[ht]
+	\centering
+\rowcolors{1}{gray!0}{gray!20}
+		\begin{tabular}{|l|l|l|}\hline
+	\textbf{Motivo}&\textbf{Frecuencia}&\textbf{Porcentaje}\\\hline\hline
+			Información&	316&	50$\%$\\\hline
+			Entretenimiento	&	428&	67$\%$\\\hline
+			Religión	&	9&	1$\%$\\\hline
+			Porque le gusta	&	128&	20$\%$\\\hline
+			Otros	&	15&	2$\%$\\\hline
+		\end{tabular}
+	  \caption{¿Para qué escucha radio?}
+	  \label{PourquoiTabla}
+\end{table}
+
+
+% \newpage
+\begin{table}[ht]
+	\centering
+\rowcolors{1}{gray!0}{gray!20}
+		\begin{tabular}{|l|l|l|}\hline
+	\textbf{}&\textbf{Frecuencia}&\textbf{Porcentaje}\\\hline\hline
+			Sí	&	565&	81$\%$\\\hline
+			No	&	72&	10$\%$\\\hline
+			NS/NC	&	60&	9$\%$\\\hline
+		\end{tabular}
+	  \caption{¿Escucha programas musicales?}
+	  \label{MusiqueTabla}
+\end{table}
+
+\begin{table}[ht]
+	\centering
+\rowcolors{1}{gray!0}{gray!20}
+		\begin{tabular}{|l|l|l|}\hline
+	\textbf{Géneros}&\textbf{Frecuencia}&\textbf{Porcentaje}\\\hline\hline
+			Cumbia	&	194&	34$\%$\\\hline
+			Rock	&	91&	16$\%$\\\hline
+			Melódica	&	58&	10$\%$\\\hline
+			Reggae&	32&	6$\%$\\\hline
+			Metal	&	6&	1$\%$\\\hline
+			Tango	&	52&	9$\%$\\\hline
+			Hip hop	&	13&	2$\%$\\\hline
+			Salsa	&	41&	7$\%$\\\hline
+			Pop	&	26&	5$\%$\\\hline
+			Jazz	&	11&	2$\%$\\\hline
+			Bossa Nova	&	10&	2$\%$\\\hline
+			Electrónica &	11&	2$\%$\\\hline
+			Folklore &	151&	27$\%$\\\hline
+			Oldies &	40&	7$\%$\\\hline
+			Otros &	27&	5$\%$\\\hline
+			De todo	&	157&	28$\%$\\\hline
+		\end{tabular}
+	  \caption{¿Qué género prefiere?}
+	  \label{LesGenresTabla}
+\end{table}
+
+\newpage
+
+\section{Radios comunitarias en general}
+\indent En esta sección se pretendía determinar la opini\'on y conocimiento de los encuestados acerca de las radios comunitarias en general. Interesa conocer la imagen que tiene la poblaci\'on de las mismas, en particular, el rol social y cultural que desempe\~nan y su apertura a la participaci\'on de la comunidad.\\
+
+\indent En relación al conocimiento de alguna radio comunitaria (cuadro \ref{ConoceTabla}), un alto porcentaje de los encuestados señala conocer alguna radio comunitaria.\\
+\begin{table}[ht]
+	\centering
+\rowcolors{1}{gray!0}{gray!20}
+		\begin{tabular}{|l|l|l|}\hline
+	\textbf{}&\textbf{Frecuencia}&\textbf{Porcentaje}\\\hline\hline
+			Sí	&	482&	69$\%$\\\hline
+			No	&	215&	31$\%$\\\hline
+		\end{tabular}
+	  \caption{¿Conoce alguna radio comunitaria?}
+	  \label{ConoceTabla}
+\end{table}
+
+\indent Luego de preguntar si conocía una radio comunitaria, se preguntaba acerca si escuchaba radios de la zona, y el por qué de dicha elección.
+\begin{table}[ht]
+	\centering
+\rowcolors{1}{gray!0}{gray!20}
+		\begin{tabular}{|l|l|l|l|}\hline
+	\textbf{}&\textbf{¿Por qué?}&\textbf{Frecuencia}&\textbf{Porcentaje}\\\hline\hline
+			Sí	&&	367&	77$\%$\\\hline
+				&Por información&	115&	24$\%$\\\hline
+				&Militancia&	18&	4$\%$\\\hline
+				&Porque es de la zona&	101&	21$\%$\\\hline
+				&Porque le gusta&	123&	26$\%$\\\hline
+				&Entretenimiento&	144&	30$\%$\\\hline\hline
+			No	&&	109&	23$\%$\\\hline
+				&No coinciden horarios&	12&	3$\%$\\\hline
+				&No logra sintonizarla&	14&	3$\%$\\\hline
+				&No le gusta&	30&	6$\%$\\\hline
+		\end{tabular}
+	  \caption{¿Escucha la radio de su zona?}
+	  \label{LaEscuchaTabla}
+\end{table}
+
+\newpage
+
+\newpage
+
+\indent Las siguientes preguntas correspondían a una valoración del rol de las radios comunitarias, tanto a la hora de aportar información (cuadro \ref{InfoLocalTabla}), integrar a los vecinos (cuadro \ref{IntegraVecinosTabla}), promocionar actividades socio-culturales (cuadro \ref{ActSocioCultTabla}) y contribuir al desarrollo de la comunidad local (cuadro \ref{DesarrolloComunidadLocalTabla}).\\
+\begin{table}[ht]
+	\centering
+\rowcolors{1}{gray!0}{gray!20}
+		\begin{tabular}{|l|l|l|}\hline
+	\textbf{}&\textbf{Frecuencia}&\textbf{Porcentaje}\\\hline\hline
+			Sí	&	360&	52$\%$\\\hline
+			No	&	46&	7$\%$\\\hline
+			NS/NC	&	291&	42$\%$\\\hline
+		\end{tabular}
+	  \caption{¿Cree que aportan información local?}
+	  \label{InfoLocalTabla}
+\end{table}
+
+
+\begin{table}[ht]
+	\centering
+\rowcolors{1}{gray!0}{gray!20}
+		\begin{tabular}{|l|l|l|}\hline
+	\textbf{}&\textbf{Frecuencia}&\textbf{Porcentaje}\\\hline\hline
+			Sí	&	357&	51$\%$\\\hline
+			No	&	50&	7$\%$\\\hline
+			NS/NC	&	290&	42$\%$\\\hline
+		\end{tabular}
+	  \caption{¿Cree que ayudan a integrar a los vecinos?}
+	  \label{IntegraVecinosTabla}
+\end{table}
+
+
+\begin{table}[ht]
+	\centering
+\rowcolors{1}{gray!0}{gray!20}
+		\begin{tabular}{|l|l|l|}\hline
+	\textbf{}&\textbf{Frecuencia}&\textbf{Porcentaje}\\\hline\hline
+			Sí	&	356&	51$\%$\\\hline
+			No	&	41&	6$\%$\\\hline
+			NS/NC	&	300&	43$\%$\\\hline
+		\end{tabular}
+	  \caption{¿Cree que promocionan actividades socio-culturales?}
+	  \label{ActSocioCultTabla}
+\end{table}
+
+\begin{table}[ht]
+	\centering
+\rowcolors{1}{gray!0}{gray!20}
+		\begin{tabular}{|l|l|l|}\hline
+	\textbf{}&\textbf{Frecuencia}&\textbf{Porcentaje}\\\hline\hline
+			Sí	&	273&	39$\%$\\\hline
+			No	&	24&	3$\%$\\\hline
+			NS/NC	&	400&	57$\%$\\\hline
+		\end{tabular}
+	  \caption{¿Cree que contribuyen con el desarrollo de la comunidad local?}
+	  \label{DesarrolloComunidadLocalTabla}
+\end{table}
+
+\indent Explícitamente se preguntaba acerca de qué hacer con las radios comunitarias. Aunque sólo 3 personas se mostraron contrarios a las mismas, existe un 55$\%$ que no tiene opinión respecto al tema. Dentro de los que respondieron ''Otros``, algunos explicitaron que se debería dar más apoyo a las radios comunitarias (en particular, económico), mientras que otros plantearon que no todas cumplen con su rol comunitario o que se debería mejorar la formación del personal de las mismas (aspecto comunicativo).\\
+\begin{table}[ht]
+	\centering
+\rowcolors{1}{gray!0}{gray!20}
+		\begin{tabular}{|l|l|l|}\hline
+	\textbf{}&\textbf{Frecuencia}&\textbf{Porcentaje}\\\hline\hline
+			Promocionarlas	&	383&	42$\%$\\\hline
+			Clausurarlas	&	3&	0$\%$\\\hline
+			Otros	&	21&	3$\%$\\\hline
+			NS/NC	&	290&	55$\%$\\\hline
+		\end{tabular}
+	  \caption{¿Qué se debería hacer con las radios comunitarias?}
+	  \label{QuoiFaireTabla}
+\end{table}
+
+\indent Las siguientes preguntas buscaban saber si la gente tiene conocimiento de que puede participar en una radio comunitaria (cuadro \ref{SabePuedeParticiparTabla}) y si le interesa (cuadro \ref{LinteresaParticiparTabla}). Poco más de una tercera parte sabe que puede participar, mientras que menos de un cuarto se muestra interesado en hacerlo.\\
+\begin{table}[ht]
+	\centering
+\rowcolors{1}{gray!0}{gray!20}
+		\begin{tabular}{|l|l|l|}\hline
+	\textbf{}&\textbf{Frecuencia}&\textbf{Porcentaje}\\\hline\hline
+			Sí	&	242&	35$\%$\\\hline
+			No	&	74&	11$\%$\\\hline
+			NS/NC	&	381&	55$\%$\\\hline
+		\end{tabular}
+	  \caption{¿Sabe que puede participar?}
+	  \label{SabePuedeParticiparTabla}
+\end{table}
+
+\begin{table}[ht]
+	\centering
+\rowcolors{1}{gray!0}{gray!20}
+		\begin{tabular}{|l|l|l|}\hline
+	\textbf{}&\textbf{Frecuencia}&\textbf{Porcentaje}\\\hline\hline
+			Sí	&	159&	23$\%$\\\hline
+			No	&	150&	22$\%$\\\hline
+			NS/NC	&	388&	56$\%$\\\hline
+		\end{tabular}
+	  \caption{¿Le interesa participar?}
+	  \label{LinteresaParticiparTabla}
+\end{table}
+
+Luego se preguntaba el por qué de la elección (por qué le interesaba o no participar en una radio comunitaria). Dado que la respuesta era abierta, no se pueden establecer estadísticas al respecto. Algunas respuestas que se repetían por el no, señalaban la ''falta de tiempo'', ''falta de experiencia'' o de ''capacitación'', edad (avanzada), ''timidez'' o ''vergüenza''. Por la afirmativa, se señala el ''gusto por la radio``, el ''querer comunicar a la gente``, ''aportar a la comunidad``, ''por entretenimiento``.
+\newpage
+\section{Análisis de datos}
+
+\indent Cruzando datos entre varias preguntas, se buscó sacar algunos indicadores de interés, que permitan a las radios conocer mejor a su público, así como diseñar estrategias para lograr llegar a otros miembros de la comunidad. Asimismo, la tabla de datos de la encuesta se encuentra disponible para los integrantes de las radios participantes del proyecto, en formato abierto (openoffice), de modo tal que ellos mismos puedan realizar más análisis.\\
+
+\indent En primer lugar, se pueden apreciar algunos indicadores en el cuadro \ref{VariosIndicadoresEdadTabla}. En particular, el sexo de los encuestados, el acceso a internet y el conocimiento de al menos una radio comunitaria, por franja etaria. El conocimiento de radios comunitarias (sólo conocimiento, que no implica necesariamente la escucha), es inversamente proporcional a la edad. De todos modos, se puede visualizar que las radios comunitarias son ampliamente conocidas por la población.\\
+
+\begin{table}[htpb]
+	\centering
+\rowcolors{1}{gray!0}{gray!20}
+		\begin{tabular}{|p{1.3cm}|p{2cm}|p{1.6cm}|p{1.6cm}|p{1.6cm}|}\hline
+      \textbf{Edades}&\textbf{Encuestados}&\textbf{Sexo femenino}&\textbf{Acceso a internet}&\textbf{¿Conoce radio comunitaria?}\\
+\hline\hline
+			14 a 29	&	224 (32$\%$)&50$\%$&63$\%$&75$\%$\\\hline
+			30 a 49 	&	263 (38$\%$)&54$\%$&53$\%$&70$\%$\\\hline
+			50 a 88 	&	210 (30$\%$)&50$\%$&30$\%$&61$\%$\\\hline\hline
+			\textbf{Total}	&\textbf{697 (100$\%$)}&\textbf{52$\%$}&\textbf{49$\%$}&\textbf{69$\%$}\\\hline
+		\end{tabular}
+	  \caption{Algunos indicadores: género, acceso a internet y conocimiento de una radio comunitaria, por franja etaria.}
+	  \label{VariosIndicadoresEdadTabla}
+\end{table}
+
+\indent En el cuadro \ref{SabePuedeParticiparEdadTabla}, sólo se analizan aquellos que dicen conocer al menos una radio comunitaria, también por franja etaria. Se nota que los sujetos de la franja etaria entre 30 y 49 años es la que menos manifiesta que sabe que puede participar del colectivo de una radio comunitaria, y también son los que menos interés muestran en participar. Muchos de los encuestados manifestaron no tener tiempo disponible para hacerlo, lo que corresponde a que toda la población entre 30 y 49 se encuentra en edad de trabajar.\\
+
+\begin{table}[htpb]
+	\centering
+\rowcolors{1}{gray!0}{gray!20}
+		\begin{tabular}{|p{1.5cm}|p{4cm}|p{3.8cm}|}\hline
+      \textbf{Edades}&\textbf{De los que conocen, ¿sabe que puede participar?}&\textbf{De los que conocen, ¿le interesa participar}\\\hline\hline
+			14 a 29	&	56$\%$&33$\%$\\\hline
+			30 a 49 	&	45$\%$&29$\%$\\\hline
+			50 a 88 	&	48$\%$&34$\%$\\\hline\hline
+			\textbf{Total}	&\textbf{50$\%$}&\textbf{33$\%$}\\\hline
+		\end{tabular}
+	  \caption{¿Sabe que usted puede participar en una radio comunitaria? ¿Le interesa? Por franja etaria, sólo para los que respondieron conocer al menos una radio comunitaria.}
+	  \label{SabePuedeParticiparEdadTabla}
+\end{table}
+
+\indent Se analizó la relación entre el conocimiento de radios comunitarias y el nivel educativo (cuadro \ref{EducativoParticipaTabla}). Aunque, en general, se puede ver que existe una correlación positiva entre nivel educativo y conocimiento de radios, existe una anomalía en el caso de los que dicen haber terminado educación terciaria (y no profesorado ni magisterio), que muestran tener un nivel de conocimiento inferior. Las siguientes columnas dan cuenta del porcentaje de personas que, conociendo al menos una radio comunitaria, saben que pueden participar y les interesa.\\
+
+\begin{table}[htpb]
+	\centering
+\rowcolors{1}{gray!0}{gray!20}
+		\begin{tabular}{|p{1.5cm}|p{1.5cm}|p{2cm}|p{2cm}|p{2cm}|}\hline
+      \textbf{\begin{small}Último nivel educativo completo\end{small}}&\textbf{\begin{small}Porcentaje\end{small}}&\textbf{\begin{small}¿Conoce alguna radio comunitaria?\end{small}}&\textbf{\begin{small}De los que conocen, ¿sabe que puede participar?\end{small}}&\textbf{\begin{small}De los que conocen, ¿le interesa participar?\end{small}}\\
+\hline\hline
+			Primaria	&	33$\%$&65$\%$&54$\%$&34$\%$\\\hline
+			Ciclo básico 	&	23$\%$&71$\%$&63$\%$&36$\%$\\\hline
+			Segundo ciclo 	&	25$\%$&74$\%$&43$\%$&24$\%$\\\hline
+			Magisterio 	&	2$\%$&82$\%$&49$\%$&33$\%$\\\hline
+			Profesorado 	&	1$\%$&80$\%$&56$\%$&25$\%$\\\hline
+			UTU 	&	5$\%$&79$\%$&38$\%$&29$\%$\\\hline
+			Terciaria 	&	6$\%$&61$\%$&28$\%$&48$\%$\\\hline
+			Otros	&	2$\%$&17$\%$&46$\%$&50$\%$\\\hline\hline
+			\textbf{Promedio}	&--	&\textbf{69$\%$}&\textbf{50$\%$}&\textbf{33$\%$}\\\hline
+		\end{tabular}
+	  \caption{Conocimiento de radios comunitarias e interés en participar de las mismas, según último nivel educativo finalizado.}
+	  \label{EducativoParticipaTabla}
+\end{table}
+
+\indent El cuadro \ref{OcupaParticipaTabla} es similar al anterior, aunque por ocupación laboral y no por nivel educativo.\\
+
+\begin{table}[htpb]
+	\centering
+\rowcolors{1}{gray!0}{gray!20}
+		\begin{tabular}{|p{1.7cm}|p{1.3cm}|p{2cm}|p{2cm}|p{2cm}|}\hline
+      \textbf{\begin{small}Ocupación\end{small}}&\textbf{\begin{small}Porcentaje\end{small}}&\textbf{\begin{small}¿Conoce alguna radio comunitaria?\end{small}}&\textbf{\begin{small}De los que conocen, ¿sabe que puede participar?\end{small}}&\textbf{\begin{small}De los que conocen, ¿le interesa participar?\end{small}}\\
+\hline\hline
+			Ama de casa	&	11$\%$&69$\%$&43$\%$&20$\%$\\\hline
+			Changas 	&	5$\%$&73$\%$&37$\%$&29$\%$\\\hline
+			Desocupado 	&	3$\%$&75$\%$&56$\%$&22$\%$\\\hline
+			Empleado 	&	44$\%$&69$\%$&54$\%$&38$\%$\\\hline
+			Estudiante 	&	12$\%$&79$\%$&62$\%$&35$\%$\\\hline
+			Independiente 	&	3$\%$&62$\%$&46$\%$&46$\%$\\\hline
+			Jubilado / Pensionista 	&	12$\%$&52$\%$&49$\%$&38$\%$\\\hline
+			Negocio propio	&	9$\%$&75$\%$&28$\%$&17$\%$\\\hline\hline
+			\textbf{Promedio}	&--	&\textbf{69$\%$}&\textbf{50$\%$}&\textbf{33$\%$}\\\hline
+		\end{tabular}
+	  \caption{¿Sabe que usted puede participar en una radio comunitaria? ¿Le interesa? Por ocupación. Sólo para los que respondieron conocer al menos una radio comunitaria.}
+	  \label{OcupaParticipaTabla}
+\end{table}
+
+
+\indent El cuadro \ref{SabePuedeParticiparSexoTabla} es similar a los anteriores, pero contemplando el aspecto de género. Los hombres tienen un mayor conocimiento de radios comunitarias (9$\%$ mayor al de las mujeres), aunque entre los que conocen existe una mayor homogeneidad (siempre con predominio masculino).
+\begin{table}[htpb]
+	\centering
+\rowcolors{1}{gray!0}{gray!20}
+		\begin{tabular}{|p{1.5cm}|p{2.2cm}|p{3cm}|p{2.8cm}|}\hline
+      \textbf{Sexo}&\textbf{¿Conoce alguna radio comunitaria?}&\textbf{De los que conocen, ¿sabe que puede participar?}&\textbf{De los que conocen, ¿le interesa participar}\\\hline\hline
+			Femenino&	65$\%$&48$\%$&31$\%$\\\hline
+			Masculino 	&	74$\%$&52$\%$&34$\%$\\\hline\hline
+			\textbf{Total}	&\textbf{69$\%$}&\textbf{50$\%$}&\textbf{33$\%$}\\\hline
+		\end{tabular}
+	  \caption{¿Sabe que usted puede participar en una radio comunitaria? ¿Le interesa? Por sexo, sólo para los que respondieron conocer al menos una radio comunitaria.}
+	  \label{SabePuedeParticiparSexoTabla}
+\end{table}
